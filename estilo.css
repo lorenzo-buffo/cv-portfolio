@@ -1,0 +1,80 @@
+#titulo {
+    color:darkslateblue
+}
+.imagen{
+    margin: 20px;
+}
+.subtitulo {
+color: darkcyan;
+ }
+ #titulo{
+border: 3px burlywood solid;
+background-color: cornsilk;
+text-align: center;
+width: 500px;
+position:relative;
+left: 389px;
+ }
+#posision{
+    position: relative;
+    left: 350px;
+    bottom: 300px;
+    text-align: justify;
+    width: 400px;
+}
+#posision2{
+   border: 3px yellow solid;
+   background-color: cornsilk;
+   border-radius: 15px;
+   padding: 15px;
+   width: 500px;
+   position: relative;
+   left:400px;
+   bottom:133px;
+}
+#posision3{
+    border: 3px yellow solid;
+    background-color: cornsilk;
+    border-radius: 15px;
+    padding: 15px;
+    width: 500px;
+    position: relative;
+    left:400px;
+    bottom: 100px;
+}
+#posision4{
+    border: 3px yellow solid;
+    background-color: cornsilk;
+    border-radius: 15px;
+    padding: 15px;
+    width: 300px;
+    position: relative;
+    bottom: 600px;
+    left:30px;
+
+}
+#posision0{
+    border: 3px yellow solid;
+    background-color: cornsilk;
+    border-radius: 15px;
+    padding: 15px;
+    width: 300px;
+    position: relative;
+    bottom: 565px;
+    left:30px;
+}
+#idioma{
+    border: 3px yellow solid;
+    background-color: cornsilk;
+    border-radius: 15px;
+    padding: 15px;
+    width: 300px;
+    position: relative;
+    bottom: 525px;
+    left:30px;
+}
+
+
+
+
+
