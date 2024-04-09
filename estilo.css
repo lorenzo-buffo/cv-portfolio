@@ -1,6 +1,13 @@
 #titulo {
     color:darkslateblue
 }
+body{
+    background-color:burlywood
+}
+header{
+    background-color:gainsboro ;
+    margin: 30px;
+}
 .imagen{
     margin: 20px;
 }
@@ -14,6 +21,7 @@ text-align: center;
 width: 500px;
 position:relative;
 left: 389px;
+top: 20px;
  }
 #posision{
     position: relative;
